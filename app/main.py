@@ -38,5 +38,5 @@ def loginPhase():
 
 
 
-user_manager = UserManager()
-main()
+#user_manager = UserManager()
+#main()
