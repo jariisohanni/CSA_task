@@ -49,11 +49,11 @@ def Delete():
 def Dirlist():
     path=input('Enter the Directory path to display:')
     sortlist=sorted(os.listdir(path))
-    i=0
-    while(i<len(sortlist)):
-        print(sortlist[i]+'\n')
-        i+=1
-        flist = []
+#    i=0
+ #   while(i<len(sortlist)):
+  #      print(sortlist[i]+'\n')
+   #     i+=1
+    flist = []
     for p in pathlib.Path('.').iterdir():
         if p.is_file():
             print(p)
