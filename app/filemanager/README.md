@@ -1,10 +1,9 @@
 This is a Python program developed by 
 antonio.milan2020@gmail.com  
 wich means to handle confidential NÄSA organization files.
-Only authorized agents in the organization can use the File System Browser program.
+Only authorized agents in the organization are allowed to acces to File System Browser by using their personal credentials.
 The program is still in development, waiting for other parts of the encrypted information 
-system, in charge of the rest of the developers, to finish being implemented.
-For the moment, provisionally, this is
+system. Provisionally, this is
 The access code (SAC): chimp
 The program allows:  
     1.Read a file
