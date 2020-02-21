@@ -83,5 +83,3 @@ def listEvents(filename='log_file.log'):
         log_file = f.read()
 
     return log_file
-
-#addEvent('test message', dest='app/logger/log_test.log')
